@@ -1,0 +1,167 @@
+body{
+	padding:0;
+	margin:0;
+}
+
+h1, h2, h3, h4{
+	padding:0;
+	margin:0;
+}
+
+.theam-color{
+	color:#f72804;
+
+}
+
+.header{
+	background-image: url("../image/Banner Image.png");
+	background-color: #0a0213;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin:50px;
+	padding:50px;
+}
+
+.head-con{
+	text-align:center;
+	color:white;
+	padding:40px 200px;
+}
+
+.head-con h1{
+	font-size:80px;
+	margin:0;
+	padding:10px 0;
+}
+
+.head-con h3{
+	font-size:50px;
+	padding:0px;
+	margin:0;
+}
+
+.off-con{
+	margin:20px 0px;
+	text-align:center;
+}
+
+.off-con h1{
+	font-size:100px
+}
+
+.new-year-con{
+	text-align:center;
+}
+
+.party-con{
+	padding:20px;
+}
+
+.party-body-con{
+	background-image: url("../image/Vectorrr.png");
+	background-color: #cccccc;
+	height:400px;
+	width:100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.party-text-con{
+	padding:50px 600px 0 50px;
+	color:#fff;
+}
+
+.party-con h1{
+	font-size:80px;
+}
+
+.party-con p{
+	font-size:20px;
+}
+
+.best-offer-con{
+	margin:20px;
+	padding:20px;
+	background: #f7e7b1;
+}
+
+.best-offer-flex-con{
+	display:flex;	
+}
+
+.best-offer-con-left{
+	flex:40%;
+	padding:20px;
+}
+
+.best-offer-con-center{
+	flex:30%;
+	padding:20px;
+	text-align:center;
+}
+
+
+
+.best-offer-img-con{
+	padding:10px;
+}
+
+.best-offer-img-con img{
+	width:60%;
+	height:auto;
+	border-radius: 50%;
+	border: 10px solid #ff0000;
+	padding:20px;
+}
+
+.best-offer-con-right{
+	flex:30%;
+	padding:20px;
+}
+
+.date-time-con{
+	margin:20px;
+	padding:100px 20px;
+	background: #f7e7b1;	
+	text-align: center;
+}
+
+.holiday-sell{
+	text-align: center;
+	margin:20px;
+	padding:30px 20px;
+}
+
+.holiday-sell h1{
+	font-size: 60px;
+}
+
+.holiday-sell h2{
+	font-size: 30px;
+}
+
+.portfolio-img-con{
+	display:flex;
+	margin:0 40px
+}
+.portfolio-img-sub-con{
+	flex:33.33%;
+	padding:10px;
+	margin:10px;
+}
+
+.portfolio-img-sub-con img{
+	width:100%;
+	height: auto;
+
+}
+
+footer{
+	background-color: #000000;
+	color: #cccccc;
+	padding: 20px;
+	margin-top: 30px;
+	text-align: center;
+}
